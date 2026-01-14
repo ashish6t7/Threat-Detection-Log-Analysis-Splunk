@@ -65,9 +65,9 @@ Threat-Detection-Log-Analysis-Splunk/
 
 ## Author
 
-Ashish Kumar
-CompTIA Security+ Certified  
-Aspiring SOC Analyst  
+- Ashish Kumar
+- CompTIA Security+ Certified  
+- Aspiring SOC Analyst  
 
 ---
 
