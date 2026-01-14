@@ -21,7 +21,7 @@ This project demonstrates:
 
 ## 📁 Detection Scenarios
 
-### 1. [SSH Brute Force Attack](./ssh_bruteforce.md)  
+### 1. [SSH Brute Force Attack](./01_ssh_bruteforce.md)  
 Detection of repeated failed SSH login attempts indicating credential brute-force activity.  
 - **Log Source:** [SSH authentication logs](https://drive.google.com/drive/folders/1BL-kVlc3yCRcAH8NnDmAyRm_3j_2mNLM?usp=sharing)
 - **MITRE ATT&CK:** T1110.001 (Brute Force: Password Guessing)
