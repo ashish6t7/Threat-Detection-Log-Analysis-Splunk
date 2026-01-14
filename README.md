@@ -17,7 +17,7 @@ This project demonstrates:
 
 ---
 
-**NOTE :** This repository will be continuously updated as new attack scenarios are added.
+# **NOTE :** This repository will be continuously updated as new attack scenarios are added.
 
 ## 📁 Detection Scenarios
 
