@@ -16,8 +16,8 @@ This project demonstrates:
 **Technologies:** Splunk Enterprise, SPL (Search Processing Language), Windows Event Logs, Sysmon
 
 ---
-
 # **NOTE :** This repository will be continuously updated as new attack scenarios are added.
+---
 
 ## 📁 Detection Scenarios
 
